@@ -1,0 +1,9 @@
+{
+  "template": "docusaurus",
+  "infiniteLoopProtection": true,
+  "node": "14",
+  "hardReloadOnChange": true,
+  "container": {
+    "node": "14"
+  }
+}
